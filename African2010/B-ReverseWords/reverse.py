@@ -1,3 +1,6 @@
+#created by duknust
+#find in https://github.com/Duknust
+
 def parser(fileName):
     fo = open(fileName, "r")
     number = fo.readline()
